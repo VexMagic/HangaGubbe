@@ -1,0 +1,11 @@
+C:\Users\izak.teahan\Documents\Visual Studio 2017\Projects\HängaGubbe\HängaGubbe\bin\Debug\netcoreapp2.1\HängaGubbe.deps.json
+C:\Users\izak.teahan\Documents\Visual Studio 2017\Projects\HängaGubbe\HängaGubbe\bin\Debug\netcoreapp2.1\HängaGubbe.runtimeconfig.json
+C:\Users\izak.teahan\Documents\Visual Studio 2017\Projects\HängaGubbe\HängaGubbe\bin\Debug\netcoreapp2.1\HängaGubbe.runtimeconfig.dev.json
+C:\Users\izak.teahan\Documents\Visual Studio 2017\Projects\HängaGubbe\HängaGubbe\bin\Debug\netcoreapp2.1\HängaGubbe.dll
+C:\Users\izak.teahan\Documents\Visual Studio 2017\Projects\HängaGubbe\HängaGubbe\bin\Debug\netcoreapp2.1\HängaGubbe.pdb
+C:\Users\izak.teahan\Documents\Visual Studio 2017\Projects\HängaGubbe\HängaGubbe\obj\Debug\netcoreapp2.1\HängaGubbe.csprojAssemblyReference.cache
+C:\Users\izak.teahan\Documents\Visual Studio 2017\Projects\HängaGubbe\HängaGubbe\obj\Debug\netcoreapp2.1\HängaGubbe.csproj.CoreCompileInputs.cache
+C:\Users\izak.teahan\Documents\Visual Studio 2017\Projects\HängaGubbe\HängaGubbe\obj\Debug\netcoreapp2.1\HängaGubbe.AssemblyInfoInputs.cache
+C:\Users\izak.teahan\Documents\Visual Studio 2017\Projects\HängaGubbe\HängaGubbe\obj\Debug\netcoreapp2.1\HängaGubbe.AssemblyInfo.cs
+C:\Users\izak.teahan\Documents\Visual Studio 2017\Projects\HängaGubbe\HängaGubbe\obj\Debug\netcoreapp2.1\HängaGubbe.dll
+C:\Users\izak.teahan\Documents\Visual Studio 2017\Projects\HängaGubbe\HängaGubbe\obj\Debug\netcoreapp2.1\HängaGubbe.pdb
